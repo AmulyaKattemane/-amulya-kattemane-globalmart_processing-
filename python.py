@@ -2,8 +2,9 @@ hungry =input("are you hungry?")
 if hungry == 'yes':
     print("eat something")
 else:
-    print("dont eat anything")
+    print("dont eat something")
+
 
 print("Hello world")
-print("writing in main")
+print("writing in main branch")
 `
