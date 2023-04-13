@@ -4,7 +4,5 @@ if hungry == 'yes':
 else:
     print("dont eat something")
 
-
-print("Hello world")
-print("dev is being used")
+print("working branch is being used")
 `
